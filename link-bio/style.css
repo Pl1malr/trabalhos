@@ -1,3 +1,4 @@
+/* BODY */
 body{
     background-color: #ffdcff;
     margin: 0;
@@ -37,4 +38,27 @@ footer{
 }
 .rodape{
     font-size: 9px;
+}
+/*sOBRE MIM*/
+.logo{
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+main{
+    margin-top: 50px;
+}
+#insta{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center ;
+}
+.sobre{
+    text-align: justify;
+    margin: 5px;
+    width: 600px;
+}
+.texto{
+    display: flex;
+    justify-content: center;
 }

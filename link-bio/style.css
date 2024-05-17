@@ -31,3 +31,10 @@ button{
     width: 50%;
     height: 60px;
 }
+footer{
+    background: #ddacdd;
+    text-align: center;
+}
+.rodape{
+    font-size: 9px;
+}

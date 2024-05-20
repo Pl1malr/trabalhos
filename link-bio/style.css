@@ -41,12 +41,14 @@ button{
     background: #ddacdd;
     width: 50%;
     height: 60px;
+    color: black;
 }
 footer{
     background: #ddacdd;
     text-align: center;
 }
 .rodape{
+    color: black;
     font-size: 9px;
 }
 /*sOBRE MIM*/

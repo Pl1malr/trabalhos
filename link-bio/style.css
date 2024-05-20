@@ -6,7 +6,13 @@ body{
     box-sizing: border-box;
 }
 a{
+    color: black;
     text-decoration: none;
+}
+a:visited{
+    color: black;
+}
+a:active{
     color: black;
 }
 .banner{

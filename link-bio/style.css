@@ -4,16 +4,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-a{
-    color: black;
-    text-decoration: none;
-}
-a:visited{
-    color: black;
-}
-a:active{
-    color: black;
+    font-size: 16px;
 }
 .banner{
     background: #ddacdd;
@@ -43,6 +34,11 @@ button{
     height: 60px;
     color: black;
 }
+button:hover{
+    color: #ffdcff;
+    text-decoration: underline;
+    font-size: 16px;
+}
 footer{
     background: #ddacdd;
     text-align: center;
@@ -50,6 +46,11 @@ footer{
 .rodape{
     color: black;
     font-size: 9px;
+}
+.rodape:hover{
+    color: #ffdcff;
+    text-decoration: underline;
+    font-size: 12px;
 }
 /*sOBRE MIM*/
 .logo{
